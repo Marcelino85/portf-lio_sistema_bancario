@@ -26,7 +26,7 @@ Este é um projeto simples de terminal feito em Python que simula operações ba
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   git clone https://github.com/Marcelino85/portf-lio_sistema_bancario
 
 ## Execute o script:
 python sistema_bancario.py
